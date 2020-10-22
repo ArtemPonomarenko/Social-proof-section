@@ -1,0 +1,20 @@
+body {
+  font-family: 'Spartan', sans-serif;
+  font-size: 15px;
+}
+.testimonial {
+  width: 350px;
+  height: 100%;
+  padding: 2%;
+}
+.testimonial_image {
+  max-width: 100px;
+}
+.testimonial_image img {
+  border-radius: 50%;
+}
+/* @media screen and (max-width: 980px){
+  body{
+
+  }
+ } */
